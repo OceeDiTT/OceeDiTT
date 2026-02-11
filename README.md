@@ -30,15 +30,6 @@ I’m a **Data Science & Geospatial Tech** enthusiast building open-source solut
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- GitHub Readme Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OceeDiTT&show_icons=true&theme=radical" alt="OceeDiTT's GitHub Stats" />
-</p>
-
----
-
 ## 📌 Featured Projects
 
 🚧 *Projects below are examples — replace descriptions with your own*  
@@ -48,21 +39,19 @@ I’m a **Data Science & Geospatial Tech** enthusiast building open-source solut
 - **[`project-name-2`](https://github.com/OceeDiTT/project-name-2)** – Brief description showing key features or impact.
 - **[`project-name-3`](https://github.com/OceeDiTT/project-name-3)** – A showcase of your best work in ML + GIS.
 
-> 🧩 Tip: Pin these to your GitHub profile for visibility under “Pinned Repositories.”
-
 ---
 
 ## 💬 Let’s Connect
 
 📫 **Reach out:**  
 - LinkedIn — https://linkedin.com/in/christian-oluoma-950470225  
-- GitHub Discussions / Issues — Ask questions or propose collabs in any repo!
+- GitHub Discussions / Issues:
 
 ---
 
 ## 🌱 I’m Learning
 
-- Advanced neural networks for **spatial-temporal prediction**
+- Development of efficient **Web Applications**
 - Scalable **cloud workflows** for large geospatial datasets
 - Real-time **earth observation ingestion pipelines**
 
