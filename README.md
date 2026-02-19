@@ -37,7 +37,8 @@ I’m a **Data Science & Geospatial Tech** enthusiast building open-source solut
 
 ## 📌 Featured Projects
 
-- **[`Spatio-Temporal Assessment of Urban Expansion Dynamics in Lahore District, Pakistan`](https://github.com/OceeDiTT/Spatio-Temporal Assessment of Urban Expansion Dynamics in Lahore District, Pakistan)** By employing Remote Sensing techniques, a spatio-temporal assessment of urban expansion in Lahore District between 2000 and 2025 was done in ArcGIS Pro using both unsupervised and supervised image classification. Post-classification change detection was applied to calculate the area and percentage of land covers that converted to built-up.
+- **[`Spatio-Temporal Assessment of Urban Expansion Dynamics in Lahore District, Pakistan`](https://github.com/OceeDiTT/Spatio-Temporal-Assessment-of-Urban-Expansion-Dynamics-in-Lahore-District--Pakistan)**
+By employing Remote Sensing techniques, a spatio-temporal assessment of urban expansion in Lahore District between 2000 and 2025 was done in ArcGIS Pro using both unsupervised and supervised image classification. Post-classification change detection was applied to calculate the area and percentage of land covers that converted to built-up.
   
 - **[`Chicago_Green_Area_Analysis`](https://github.com/OceeDiTT/Chicago_Green_Area_Analysis)**
 This project aims to quantify and visualize the distribution of urban green areas across Chicago’s community areas and explore their relationship to the resident population. The ultimate goal is to support data-driven decision-making for urban planners, policymakers, and community advocates who seek to improve equitable access to green spaces.
