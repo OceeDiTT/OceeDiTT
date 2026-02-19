@@ -4,16 +4,16 @@ I’m a **Data Science & Geospatial Tech** enthusiast building open-source solut
 
 🌍 Based in **Lisbon, Portugal**  
 🎓 Studied at **Nova IMS**  
-🔗 Connect with me on LinkedIn: https://linkedin.com/in/christian-oluoma-950470225
+🔗 Connect with me on LinkedIn: www.linkedin.com/in/oluomachristian
 
 ---
 
 ## 🚀 About Me
 
 - 🧠 I work at the intersection of **Data Science, Geospatial Analytics, and Machine Learning**.
-- 🌐 Passionate about transforming spatial data into meaningful insights.
-- 💡 I enjoy building tools that help visualize and analyze Earth observation data.
-- 📈 Always learning — currently exploring advanced deep learning for remote sensing.
+- 🌐 Passionate about transforming geospatial data into meaningful insights.
+- 💡 I enjoy building tools and products that help visualize and analyze geospatial data.
+- 📈 Always learning — currently exploring geospatial web application development.
 
 ---
 
@@ -21,37 +21,44 @@ I’m a **Data Science & Geospatial Tech** enthusiast building open-source solut
 
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+  <img alt="Google Earth Engine" src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?logo=googleearthengine&logoColor=white" />
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+  <img alt="GeoPandas" src="https://img.shields.io/badge/GeoPandas-139C5A?logo=pandas&logoColor=white" />
+  <img alt="Leaflet" src="https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white" />
+  <img alt="QGIS" src="https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white" />
+  <img alt="ArcGIS" src="https://img.shields.io/badge/ArcGIS-0079C1?logo=esri&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img alt="GMT" src="https://img.shields.io/badge/GMT-005F73?logo=gnu&logoColor=white" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-🚧 *Projects below are examples — replace descriptions with your own*  
+- **[`Spatio-Temporal Assessment of Urban Expansion Dynamics in Lahore District, Pakistan`](https://github.com/OceeDiTT/Spatio-Temporal Assessment of Urban Expansion Dynamics in Lahore District, Pakistan)** By employing Remote Sensing techniques, a spatio-temporal assessment of urban expansion in Lahore District between 2000 and 2025 was done in ArcGIS Pro using both unsupervised and supervised image classification. Post-classification change detection was applied to calculate the area and percentage of land covers that converted to built-up.
+  
+- **[`Chicago_Green_Area_Analysis`](https://github.com/OceeDiTT/Chicago_Green_Area_Analysis)**
+This project aims to quantify and visualize the distribution of urban green areas across Chicago’s community areas and explore their relationship to the resident population. The ultimate goal is to support data-driven decision-making for urban planners, policymakers, and community advocates who seek to improve equitable access to green spaces.
 
-### 🔍 Remote Sensing & GeoAI Tools
-- **[`project-name-1`](https://github.com/OceeDiTT/project-name-1)** – Brief description of what it does and why it’s useful.
-- **[`project-name-2`](https://github.com/OceeDiTT/project-name-2)** – Brief description showing key features or impact.
-- **[`project-name-3`](https://github.com/OceeDiTT/project-name-3)** – A showcase of your best work in ML + GIS.
+- **[`WeRateDogs-Tweets-Analysis`](https://github.com/OceeDiTT/WeRateDogs-Tweets-Analysis)**
+WeRateDogs is a Twitter account that rates people’s dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because “they’re good dogs Brent.”
 
 ---
 
 ## 💬 Let’s Connect
 
 📫 **Reach out:**  
-- LinkedIn — https://linkedin.com/in/christian-oluoma-950470225  
+- Email — oluomachristiandigitrad@gmail.com 
+- LinkedIn — www.linkedin.com/in/oluomachristian  
 - GitHub Discussions / Issues:
 
 ---
 
 ## 🌱 I’m Learning
 
-- Development of efficient **Web Applications**
+- Development of efficient ** Geospatial Web Applications**
 - Scalable **cloud workflows** for large geospatial datasets
 - Real-time **earth observation ingestion pipelines**
 
