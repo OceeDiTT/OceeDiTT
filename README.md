@@ -37,11 +37,11 @@ I’m a **Data Science & Geospatial Tech** enthusiast building open-source solut
 
 ## 📌 Featured Projects
 
+- **[`Lisbon GreenGrid`](https://github.com/Lisbon-GreenGrid/Lisbon-GreenGrid)**
+An urban tree inventory & maintenance management system. It is a simple yet robust system for managing urban trees in the city of Lisbon. It enables city planners or maintenance teams to efficiently query, insert, update, and manage tree-related data through a web application.
+
 - **[`FordGoBike Analysis`](https://github.com/OceeDiTT/FordGoBike-Analysis)**
 Through exploratory data analysis and statistical evaluation, this project investigates how customer attributes specifically Gender, Age, and User Type influence ride duration. The analysis aims to identify patterns in trip behavior and assess whether demographic and subscription characteristics are associated with differences in usage.
-  
-- **[`Chicago Green Area Analysis`](https://github.com/OceeDiTT/Chicago_Green_Area_Analysis)**
-This project aims to quantify and visualize the distribution of urban green areas across Chicago’s community areas and explore their relationship to the resident population. The ultimate goal is to support data-driven decision-making for urban planners, policymakers, and community advocates who seek to improve equitable access to green spaces.
 
 - **[`WeRateDogs Tweets Analysis`](https://github.com/OceeDiTT/WeRateDogs-Tweets-Analysis)**
 WeRateDogs is a Twitter account that rates people’s dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because “they’re good dogs Brent.”
