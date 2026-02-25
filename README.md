@@ -59,7 +59,7 @@ WeRateDogs is a Twitter account that rates people’s dogs with a humorous comme
 
 ## 🌱 I’m Learning
 
-- Development of efficient ** Geospatial Web Applications**
+- Development of efficient **Geospatial Web Applications**
 - Scalable **cloud workflows** for large geospatial datasets
 - Real-time **earth observation ingestion pipelines**
 
