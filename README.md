@@ -1,9 +1,9 @@
 # Hi there, I'm Christian 👋
 
-I’m a **Data Science & Geospatial Tech** enthusiast building open-source solutions with **Machine Learning, Remote Sensing, and AI**.
+I’m a **Geospatial Tech** enthusiast building open-source solutions with **Machine Learning, Remote Sensing, and AI**.
 
 🌍 Based in **Lisbon, Portugal**  
-🎓 Studied at **Nova IMS**  
+🎓 Studied at **Nova IMS and the University of Muenster**  
 🔗 Connect with me on LinkedIn: www.linkedin.com/in/oluomachristian
 
 ---
@@ -60,8 +60,7 @@ WeRateDogs is a Twitter account that rates people’s dogs with a humorous comme
 ## 🌱 I’m Learning
 
 - Development of efficient **Geospatial Web Applications**
-- Scalable **cloud workflows** for large geospatial datasets
-- Real-time **earth observation ingestion pipelines**
+- Scalable **workflows** for large geospatial datasets
 
 ---
 
