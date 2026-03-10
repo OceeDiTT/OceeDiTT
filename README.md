@@ -3,7 +3,7 @@
 I’m a **Geospatial Tech** enthusiast building open-source solutions with **Machine Learning, Remote Sensing, and AI**.
 
 🌍 Based in **Lisbon, Portugal**  
-🎓 Studied at **Nova IMS and the University of Muenster**  
+🎓 Studied at **Nova University Lisbon and University of Muenster**  
 🔗 Connect with me on LinkedIn: www.linkedin.com/in/oluomachristian
 
 ---
