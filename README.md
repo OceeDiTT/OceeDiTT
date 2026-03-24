@@ -1,8 +1,8 @@
 # Hi there, I'm Christian 👋
 
-I’m a **Geospatial Tech** enthusiast building open-source solutions with **Machine Learning, Remote Sensing, and AI**.
+I’m into everything **data** and **Geospatial**.
 
-🌍 Based in **Lisbon, Portugal**  
+🌍 Based in **Muenster, Germany**  
 🎓 Studied at **Nova University Lisbon and University of Muenster**  
 🔗 Connect with me on LinkedIn: www.linkedin.com/in/oluomachristian
 
