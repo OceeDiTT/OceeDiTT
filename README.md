@@ -2,24 +2,17 @@
 
 I’m into everything **data** and **Geospatial**.
 
-🌍 Based in **Muenster, Germany**  
-🎓 Studied at **Nova University Lisbon and University of Muenster**  
-🔗 Connect with me on LinkedIn: www.linkedin.com/in/oluomachristian
-
----
-
-## 🚀 About Me
-
-- 🧠 I work at the intersection of **Data Science, Geospatial Analytics, and Machine Learning**.
-- 🌐 Passionate about transforming geospatial data into meaningful insights.
-- 💡 I enjoy building tools and products that help visualize and analyze geospatial data.
-- 📈 Always learning — currently exploring geospatial web application development.
+🌍 Based in **Münster, Germany**  
+🎓 Studied at **Nova University of Lisbon and University of Münster**  
+🔗 Connect with me:
+- Email — oluomachristiandigitrad@gmail.com 
+- LinkedIn — www.linkedin.com/in/oluomachristian
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
@@ -48,21 +41,6 @@ WeRateDogs is a Twitter account that rates people’s dogs with a humorous comme
 
 ---
 
-## 💬 Let’s Connect
-
-📫 **Reach out:**  
-- Email — oluomachristiandigitrad@gmail.com 
-- LinkedIn — www.linkedin.com/in/oluomachristian  
-- GitHub Discussions / Issues:
-
----
-
 ## 🌱 I’m Learning
 
-- Development of efficient **Geospatial Web Applications**
-- Scalable **workflows** for large geospatial datasets
-
----
-
-Thanks for stopping by 👋  
-Let’s build something amazing together 🚀
+- Scalable **workflows** for large conventional & geospatial datasets
