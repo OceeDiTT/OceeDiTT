@@ -1,6 +1,6 @@
 # Hi there, I'm Christian 👋
 
-I’m into everything **data** and **Geospatial**.
+I’m into everything **Data** and **Geospatial Technologies**.
 
 🌍 Based in **Münster, Germany**  
 🎓 Studied at **Nova University of Lisbon and University of Münster**  
