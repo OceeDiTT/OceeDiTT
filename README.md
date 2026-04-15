@@ -1,16 +1,16 @@
-# Hi there, I'm Christian 👋
+# Hi there, I'm Christian
 
 I’m into everything **Data** and **Geospatial Technologies**.
 
-🌍 Based in **Münster, Germany**  
-🎓 Studied at **Nova University of Lisbon and University of Münster**  
-🔗 Connect with me:
+Based in **Münster, Germany**  
+Studied at **Nova University of Lisbon and University of Münster**  
+Connect with me:
 - Email — oluomachristiandigitrad@gmail.com 
 - LinkedIn — www.linkedin.com/in/oluomachristian
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
@@ -28,7 +28,7 @@ I’m into everything **Data** and **Geospatial Technologies**.
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 - **[`Lisbon GreenGrid`](https://github.com/Lisbon-GreenGrid/Lisbon-GreenGrid)**
 An urban tree inventory & maintenance management system. It is a simple yet robust system for managing urban trees in the city of Lisbon. It enables city planners or maintenance teams to efficiently query, insert, update, and manage tree-related data through a web application.
@@ -41,6 +41,6 @@ WeRateDogs is a Twitter account that rates people’s dogs with a humorous comme
 
 ---
 
-## 🌱 I’m Learning
+## I’m Learning
 
 - Scalable **workflows** for large conventional & geospatial datasets
