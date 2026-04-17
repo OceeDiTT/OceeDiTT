@@ -2,8 +2,7 @@
 
 I’m into everything **Data** and **Geospatial Technologies**.
 
-Based in **Münster, Germany**  
-Studied at **Nova University of Lisbon and University of Münster**  
+Based in **Münster, Germany**   
 Connect with me:
 - Email — oluomachristiandigitrad@gmail.com 
 - LinkedIn — www.linkedin.com/in/oluomachristian
