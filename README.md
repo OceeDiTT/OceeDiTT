@@ -32,8 +32,8 @@ Connect with me:
 - **[`Lisbon GreenGrid`](https://github.com/Lisbon-GreenGrid/Lisbon-GreenGrid)**
 An urban tree inventory & maintenance management system. It is a simple yet robust system for managing urban trees in the city of Lisbon. It enables city planners or maintenance teams to efficiently query, insert, update, and manage tree-related data through a web application.
 
-- **[`FordGoBike Analysis`](https://github.com/OceeDiTT/FordGoBike-Analysis)**
-Through exploratory data analysis and statistical evaluation, this project investigates how customer attributes specifically Gender, Age, and User Type influence ride duration. The analysis aims to identify patterns in trip behavior and assess whether demographic and subscription characteristics are associated with differences in usage.
+- **[`FordGoBike Analysis`](https://github.com/OceeDiTT/ginieq)**
+A reproducible R package developed to quantify spatial and temporal inequality in NTL emissions using the Gini index. The package computes yearly spatial Gini indices, evaluates temporal variability for each administrative unit, and provides a suite of visualization tools for interpreting these patterns.
 
 - **[`WeRateDogs Tweets Analysis`](https://github.com/OceeDiTT/WeRateDogs-Tweets-Analysis)**
 WeRateDogs is a Twitter account that rates people’s dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because “they’re good dogs Brent.”
