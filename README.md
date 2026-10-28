@@ -7,6 +7,8 @@ Connect with me:
 - Email — oluomachristiandigitrad@gmail.com 
 - LinkedIn — www.linkedin.com/in/oluomachristian
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/OceeDiTT/badge.svg)](https://hub.xerj.org/contributors/OceeDiTT)
+
 ---
 
 ## Tech Stack
