@@ -32,13 +32,13 @@ Connect with me:
 ## Featured Projects
 
 - **[`Hotel Land Suitability System`](https://github.com/OceeDiTT/hotel-suitability-mcda)**
-An end-to-end geospatial system that finds suitable land for a hotel in Lisbon.
+An end-to-end geospatial system that finds suitable land for a hotel development in Lisbon.
 
 - **[`Lisbon GreenGrid`](https://github.com/Lisbon-GreenGrid/Lisbon-GreenGrid)**
-An urban tree inventory & maintenance management system. It is a simple yet robust system for managing urban trees in the city of Lisbon. It enables city planners or maintenance teams to efficiently query, insert, update, and manage tree-related data through a web application.
+  A simple yet robust urban tree inventory & maintenance management system for managing urban trees in the city of Lisbon.
 
 - **[`Ginieq`](https://github.com/OceeDiTT/ginieq)**
-A reproducible R package developed to quantify spatial and temporal inequality in NTL emissions using the Gini index. The package computes yearly spatial Gini indices, evaluates temporal variability for each administrative unit, and provides a suite of visualization tools for interpreting these patterns.
+A reproducible R package developed to quantify spatial and temporal inequality in NTL emissions using the Gini index.
 
 ---
 
