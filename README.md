@@ -35,7 +35,7 @@ Connect with me:
 An end-to-end geospatial system that finds suitable land for a hotel development in Lisbon.
 
 - **[`Lisbon GreenGrid`](https://github.com/Lisbon-GreenGrid/Lisbon-GreenGrid)**
-  A simple yet robust urban tree inventory & maintenance management system for managing urban trees in the city of Lisbon.
+  A simple yet robust urban tree inventory & maintenance management system for the city of Lisbon.
 
 - **[`Ginieq`](https://github.com/OceeDiTT/ginieq)**
 A reproducible R package developed to quantify spatial and temporal inequality in NTL emissions using the Gini index.
