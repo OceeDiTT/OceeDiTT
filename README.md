@@ -31,7 +31,10 @@ Connect with me:
 
 ## Featured Projects
 
-- **[`Hotel Land Suitability System`](https://github.com/OceeDiTT/hotel-suitability-mcda)**
+- **[`Green Area Accessibilty System`](https://github.com/OceeDiTT/green-area-accessibility)**
+An API-driven data product that measures how well Barcelona's residents can actually reach green space.
+
+- **[`Hotel Location Suitability System`](https://github.com/OceeDiTT/hotel-suitability-mcda)**
 An end-to-end geospatial system that finds suitable land for a hotel development in Lisbon.
 
 - **[`Lisbon GreenGrid`](https://github.com/Lisbon-GreenGrid/Lisbon-GreenGrid)**
